@@ -5,6 +5,3 @@
 # Draft content
 drafts/
 *.draft.mdx
-
-# Reference artifacts (not published documentation pages)
-agents/
