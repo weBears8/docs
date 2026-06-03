@@ -73,6 +73,50 @@
           "integrations/connectors/crm",
           "integrations/webhooks/configure"
         ]
+      },
+      {
+        "group": "Playbooks",
+        "icon": "rocket",
+        "expanded": true,
+        "pages": [
+          "playbooks/start-here",
+          {
+            "group": "Video editor client system",
+            "pages": [
+              "playbooks/video-editor-client-system",
+              "playbooks/video-editor-product-kit",
+              "playbooks/video-editor-funnel-copy",
+              "playbooks/video-editor-launch-kit"
+            ]
+          },
+          {
+            "group": "Reactive dog reset",
+            "pages": [
+              "playbooks/reactive-dog-reset",
+              "playbooks/reactive-dog-product-kit",
+              "playbooks/reactive-dog-funnel-copy",
+              "playbooks/reactive-dog-launch-kit"
+            ]
+          },
+          {
+            "group": "IELTS writing booster",
+            "pages": [
+              "playbooks/ielts-writing-booster",
+              "playbooks/ielts-writing-product-kit",
+              "playbooks/ielts-writing-funnel-copy",
+              "playbooks/ielts-writing-launch-kit"
+            ]
+          },
+          {
+            "group": "ATS resume kit",
+            "pages": [
+              "playbooks/ats-resume-kit",
+              "playbooks/ats-resume-product-kit",
+              "playbooks/ats-resume-funnel-copy",
+              "playbooks/ats-resume-launch-kit"
+            ]
+          }
+        ]
       }
     ]
   },
