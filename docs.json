@@ -79,7 +79,10 @@
         "icon": "rocket",
         "expanded": true,
         "pages": [
-          "playbooks/video-editor-client-system"
+          "playbooks/video-editor-client-system",
+          "playbooks/video-editor-product-kit",
+          "playbooks/video-editor-funnel-copy",
+          "playbooks/video-editor-launch-kit"
         ]
       }
     ]
