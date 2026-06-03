@@ -96,6 +96,15 @@
               "playbooks/reactive-dog-funnel-copy",
               "playbooks/reactive-dog-launch-kit"
             ]
+          },
+          {
+            "group": "IELTS writing booster",
+            "pages": [
+              "playbooks/ielts-writing-booster",
+              "playbooks/ielts-writing-product-kit",
+              "playbooks/ielts-writing-funnel-copy",
+              "playbooks/ielts-writing-launch-kit"
+            ]
           }
         ]
       }
