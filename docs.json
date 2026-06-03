@@ -106,6 +106,15 @@
               "playbooks/ielts-writing-funnel-copy",
               "playbooks/ielts-writing-launch-kit"
             ]
+          },
+          {
+            "group": "ATS resume kit",
+            "pages": [
+              "playbooks/ats-resume-kit",
+              "playbooks/ats-resume-product-kit",
+              "playbooks/ats-resume-funnel-copy",
+              "playbooks/ats-resume-launch-kit"
+            ]
           }
         ]
       }
