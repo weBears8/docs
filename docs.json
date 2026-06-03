@@ -79,6 +79,7 @@
         "icon": "rocket",
         "expanded": true,
         "pages": [
+          "playbooks/start-here",
           {
             "group": "Video editor client system",
             "pages": [
