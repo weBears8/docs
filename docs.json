@@ -79,10 +79,24 @@
         "icon": "rocket",
         "expanded": true,
         "pages": [
-          "playbooks/video-editor-client-system",
-          "playbooks/video-editor-product-kit",
-          "playbooks/video-editor-funnel-copy",
-          "playbooks/video-editor-launch-kit"
+          {
+            "group": "Video editor client system",
+            "pages": [
+              "playbooks/video-editor-client-system",
+              "playbooks/video-editor-product-kit",
+              "playbooks/video-editor-funnel-copy",
+              "playbooks/video-editor-launch-kit"
+            ]
+          },
+          {
+            "group": "Reactive dog reset",
+            "pages": [
+              "playbooks/reactive-dog-reset",
+              "playbooks/reactive-dog-product-kit",
+              "playbooks/reactive-dog-funnel-copy",
+              "playbooks/reactive-dog-launch-kit"
+            ]
+          }
         ]
       }
     ]
