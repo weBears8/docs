@@ -165,3 +165,28 @@ Trigger: nuova vendita → Notion (CRM) + Google Sheet (contabilità) + Telegram
 - Inizio sessione: "Leggi lo STATO e fai `Diagnosi blocco`"
 - Fine sessione: "Aggiorna lo STATO" → salva il file → ricarica su Claude **e** ChatGPT
 - 1 anello chiuso per sprint. La catena si sblocca in ordine.
+
+---
+
+## 9. Link Canva dei file del prodotto
+
+Stile: Palette A (gradiente blu polvere → rosa cipria + oro, font serif elegante + sans pulito).
+
+### Italiano (6/6 — completo)
+| # | File | Link Canva (modifica) |
+|---|---|---|
+| 01 | Guida principale | https://www.canva.com/d/INrEL69ne6JquCT |
+| 02 | Template Email | https://www.canva.com/d/dqwWh3yupX8BslJ |
+| 03 | Contratto | https://www.canva.com/d/Jx2pfgYHY738mO_ |
+| 04 | Timeline | https://www.canva.com/d/hKcbQ2zJAyQfncF |
+| 05 | Workflow | https://www.canva.com/d/zg4_2SbdmxyEG5O |
+| 06 | Workbook | https://www.canva.com/d/wml__7wPPypns_w |
+
+### English (1/6 — le altre 5 in attesa del reset quota Canva)
+| # | File | Link Canva (modifica) |
+|---|---|---|
+| 01 | Guide | https://www.canva.com/d/yrlEZqTlQJccfzZ |
+| 02–06 | Email, Contract, Timeline, Workflow, Workbook | da generare al reset quota |
+
+> Nota: design generati con AI Canva — rivedere/ritoccare testi e spaziature prima dell'export PDF.
+> Eliminare le 2 versioni-prova della guida (stili scartati) tenendo solo `INrEL69ne6JquCT`.
